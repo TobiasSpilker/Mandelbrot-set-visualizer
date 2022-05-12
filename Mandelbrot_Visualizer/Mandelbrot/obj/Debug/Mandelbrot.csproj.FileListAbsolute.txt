@@ -1,0 +1,30 @@
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.Properties.Resources.resources
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.GenerateResource.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\Jaar 1\Blok 2\Modelleren en programmeren\Werkcolleges\Practicum 1\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.Properties.Resources.resources
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.GenerateResource.cache
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\Tobias\Desktop\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.Properties.Resources.resources
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.GenerateResource.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\Tobias\Desktop\Kunstmatige intelligentie\X. Portfolio & CV\Github - portfolio\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
